@@ -77,7 +77,7 @@ module.exports = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       screens: {
-        'xs': '450px',
+        'xs': '350px',
       },
       animationDelay: {
         5000: '5000ms',
