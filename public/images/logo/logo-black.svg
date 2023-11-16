@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="50" height="55" viewBox="0 0 50 55" xml:space="preserve">
+<desc>Created by Enginux.art</desc>
+<defs>
+</defs>
+<g transform="matrix(3.33 0 0 3.33 24.64 21.64)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #ffffff; fill-rule: evenodd; opacity: 1;"  transform=" translate(-7.5, -7)" d="M 7.49998 1 L 6.92321 2.00307 L 1.17498 12 L 0.599976 13 H 1.7535 H 13.2464 H 14.4 L 13.825 12 L 8.07674 2.00307 L 7.49998 1 Z M 7.49998 3.00613 L 2.3285 12 H 12.6714 L 7.49998 3.00613 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 24.46 39.85)"  >
+<polygon style="stroke: #ffffff; stroke-width: 8; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #ffffff; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="0,-50 35,0 0,50 -35,0" />
+</g>
+</svg>
